@@ -25,6 +25,9 @@ this is about hello word program of tensorflow,  and it conversion of decimal to
  clone repo:- git clone https://github.com/parthvadhadiya/hello-world-in-tensorflow-binary-to-decimal/ 
  
  run :- python3 training_RNN.py 
+ 
    it will generate dataset using create_dataset.py and train RNN with that dataset.
  
- run :- python3 usemodel.py for getting predicated decimal value of givan binary
+ run :- python3 usemodel.py 
+ 
+   for getting predicated decimal value of givan binary
