@@ -1,10 +1,6 @@
 # hello-world-in-tensorflow-binary-to-decimal
-
-Hands-on, Tensorflow hello world program with python.
-
-Obviously this is not a RNN, aimfor this repo was not an implement the Recurrent neural network. 
-
-this is about hello word program of tensorflow  and conversion of decimal to binary with ANN, so we will prepare dataset of binary and coresponding decimal value. therefore, it becomes supervise learning. Then we train dataset using tensorflow library and save model after training, further we pull up saved model and test it using binary data.
+Hands-on, tensorflow hello world program with python.
+aim for this repo was not to implement the Recurrent neural network. This is about hello word program of tensorflow, and conversion of decimal to binary, so we will prepare dataset of binary and coresponding decimal value. Therefore, it becomes supervise learning. Then we will train dataset using tensorflow library and save our model after training, further we will pull up saved model and test it using binary data.
 
 
 ## Installation
